@@ -1,3 +1,6 @@
 Contenido del fichero A
 
 Modificado otra vez
+
+
+gestionarPerfiles
